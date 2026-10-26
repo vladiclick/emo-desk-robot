@@ -1,0 +1,47 @@
+{
+  "electronics_present": [
+    "ESP32-C3 SuperMini PCB",
+    "Pololu U3V70F5 PCB",
+    "DFRobot DFR0668 charger PCB",
+    "DFPlayer Mini PCB",
+    "1S protection 32195 PCB",
+    "IMU GY-521 envelope PCB",
+    "GNB6501S70A 1S 650mAh",
+    "20mm 8ohm speaker allowance",
+    "External charge USB-C allowance",
+    "SparkFun BOB-23055 PCB flange",
+    "Capacitor 2.5mm nylon tie allowance",
+    "RUN OFF CHARGE switch allowance"
+  ],
+  "ankle_motors_belong_to_feet": true,
+  "archive_reloaded": true,
+  "revolute_joints": 4,
+  "motion_links": 0,
+  "MG90S": 4,
+  "print_parts": 17,
+  "grounded_parts": 1,
+  "direct_coaxial_axes_verified": true,
+  "tests": [
+    {
+      "joint": "HIP L direct yaw 15deg",
+      "driven_deg": 5,
+      "component_moved": true
+    },
+    {
+      "joint": "HIP R direct yaw 15deg",
+      "driven_deg": 5,
+      "component_moved": true
+    },
+    {
+      "joint": "ANKLE L direct roll 12deg",
+      "driven_deg": 5,
+      "component_moved": true
+    },
+    {
+      "joint": "ANKLE R direct roll 12deg",
+      "driven_deg": 5,
+      "component_moved": true
+    }
+  ],
+  "all_passed": true
+}

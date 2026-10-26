@@ -1,0 +1,165 @@
+{
+  "purpose": "Sampled rigid assembly paths. Hold both retaining hook tips outward about 1mm during motor front insertion; elasticity not simulated. Feet and cassette installed afterward.",
+  "tests": [
+    {
+      "name": "L hip front insertion with clips held open",
+      "moving_bodies": 3,
+      "samples": [
+        {
+          "z_offset_mm": -55,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -45,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -35,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -25,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -18,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -12,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -8,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -4,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -2,
+          "collisions": []
+        }
+      ],
+      "all_passed": true
+    },
+    {
+      "name": "L hip seated with released hooks",
+      "moving_bodies": 3,
+      "samples": [
+        {
+          "z_offset_mm": 0,
+          "collisions": []
+        }
+      ],
+      "all_passed": true
+    },
+    {
+      "name": "R hip front insertion with clips held open",
+      "moving_bodies": 3,
+      "samples": [
+        {
+          "z_offset_mm": -55,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -45,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -35,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -25,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -18,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -12,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -8,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -4,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": -2,
+          "collisions": []
+        }
+      ],
+      "all_passed": true
+    },
+    {
+      "name": "R hip seated with released hooks",
+      "moving_bodies": 3,
+      "samples": [
+        {
+          "z_offset_mm": 0,
+          "collisions": []
+        }
+      ],
+      "all_passed": true
+    },
+    {
+      "name": "Loaded rack rear insertion into head",
+      "moving_bodies": 7,
+      "samples": [
+        {
+          "z_offset_mm": 65,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 52,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 40,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 30,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 22,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 16,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 12,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 8,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 4,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 2,
+          "collisions": []
+        },
+        {
+          "z_offset_mm": 0,
+          "collisions": []
+        }
+      ],
+      "all_passed": true
+    }
+  ],
+  "all_passed": true
+}

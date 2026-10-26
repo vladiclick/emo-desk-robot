@@ -1,0 +1,146 @@
+[
+  {
+    "file": "Leg_L_side_cover_-1.stl",
+    "triangles": 404,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 2236.34,
+    "xyz_mm": [
+      2.0,
+      28.5,
+      39.5
+    ]
+  },
+  {
+    "file": "Leg_L_side_cover_1.stl",
+    "triangles": 404,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 2236.34,
+    "xyz_mm": [
+      2.0,
+      28.5,
+      39.5
+    ]
+  },
+  {
+    "file": "Leg_R_side_cover_-1.stl",
+    "triangles": 404,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 2236.34,
+    "xyz_mm": [
+      2.0,
+      28.5,
+      39.5
+    ]
+  },
+  {
+    "file": "Leg_R_side_cover_1.stl",
+    "triangles": 404,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 2236.34,
+    "xyz_mm": [
+      2.0,
+      28.5,
+      39.5
+    ]
+  },
+  {
+    "file": "OLED_0.96_removable_face_carrier.stl",
+    "triangles": 3072,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 6373.51,
+    "xyz_mm": [
+      54.0,
+      34.0,
+      10.0
+    ]
+  },
+  {
+    "file": "OLED_PCB_retaining_frame.stl",
+    "triangles": 1328,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 1399.91,
+    "xyz_mm": [
+      38.0,
+      34.0,
+      3.5
+    ]
+  },
+  {
+    "file": "User_foot_L_-_ankle_fork.stl",
+    "triangles": 2088,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 26747.11,
+    "xyz_mm": [
+      50.0,
+      43.2,
+      60.0
+    ]
+  },
+  {
+    "file": "User_foot_R_-_ankle_fork.stl",
+    "triangles": 2174,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 26748.42,
+    "xyz_mm": [
+      50.0,
+      43.2,
+      60.0
+    ]
+  },
+  {
+    "file": "User_head_-_hollow_torso.stl",
+    "triangles": 7440,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 65828.43,
+    "xyz_mm": [
+      80.0,
+      65.0,
+      50.0
+    ]
+  },
+  {
+    "file": "User_head_-_rear_service_lid.stl",
+    "triangles": 1932,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 17454.19,
+    "xyz_mm": [
+      80.0,
+      65.0,
+      6.0
+    ]
+  },
+  {
+    "file": "User_leg_L_-_servo_cradle.stl",
+    "triangles": 3938,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 10111.14,
+    "xyz_mm": [
+      19.6,
+      35.2,
+      50.0
+    ]
+  },
+  {
+    "file": "User_leg_R_-_servo_cradle.stl",
+    "triangles": 3938,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 10111.14,
+    "xyz_mm": [
+      19.6,
+      35.2,
+      50.0
+    ]
+  }
+]

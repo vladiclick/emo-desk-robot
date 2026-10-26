@@ -1,0 +1,43 @@
+{
+  "native_archive_reopened": true,
+  "main_components": 5,
+  "grounded_components": 1,
+  "joints": [
+    {
+      "name": "HIP L - yaw +/-20.0 deg",
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "drive_after_reload": true
+    },
+    {
+      "name": "HIP R - yaw +/-20.0 deg",
+      "axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "drive_after_reload": true
+    },
+    {
+      "name": "ANKLE L - roll +/-15.0 deg",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "drive_after_reload": true
+    },
+    {
+      "name": "ANKLE R - roll +/-15.0 deg",
+      "axis": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "drive_after_reload": true
+    }
+  ]
+}

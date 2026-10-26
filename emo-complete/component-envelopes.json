@@ -1,0 +1,173 @@
+{
+  "units": "mm",
+  "board_height_and_connector_envelopes": "Design reserves; exact clone geometry requires measurement",
+  "COMPONENTS": [
+    {
+      "name": "ESP32-C3 SuperMini",
+      "center": [
+        -35,
+        90.9,
+        -34
+      ],
+      "size": [
+        22.5,
+        18,
+        6
+      ],
+      "color": [
+        32,
+        80,
+        122
+      ],
+      "kind": "pcb"
+    },
+    {
+      "name": "Pololu U3V70F5",
+      "center": [
+        -35,
+        90,
+        -17.5
+      ],
+      "size": [
+        40.6,
+        15.2,
+        4.6
+      ],
+      "color": [
+        30,
+        89,
+        55
+      ],
+      "kind": "pcb"
+    },
+    {
+      "name": "DFRobot DFR0668 charger",
+      "center": [
+        -35,
+        64,
+        -31
+      ],
+      "size": [
+        28,
+        16.5,
+        6
+      ],
+      "color": [
+        35,
+        72,
+        105
+      ],
+      "kind": "pcb"
+    },
+    {
+      "name": "DFPlayer Mini",
+      "center": [
+        -35,
+        64,
+        -19
+      ],
+      "size": [
+        20,
+        20,
+        6
+      ],
+      "color": [
+        29,
+        88,
+        65
+      ],
+      "kind": "pcb"
+    },
+    {
+      "name": "1S protection 32195",
+      "center": [
+        -35,
+        67.8,
+        -5.8
+      ],
+      "size": [
+        28.8,
+        7,
+        2.5
+      ],
+      "color": [
+        26,
+        95,
+        64
+      ],
+      "kind": "pcb"
+    },
+    {
+      "name": "IMU GY-521 envelope",
+      "center": [
+        -35,
+        52,
+        -36.5
+      ],
+      "size": [
+        20,
+        16,
+        4
+      ],
+      "color": [
+        34,
+        87,
+        134
+      ],
+      "kind": "pcb"
+    }
+  ],
+  "BATTERY": {
+    "name": "GNB6501S70A 1S 650mAh",
+    "center": [
+      -35,
+      86.3,
+      -1.25
+    ],
+    "size": [
+      46,
+      25,
+      8.5
+    ],
+    "kind": "battery"
+  },
+  "USB": {
+    "name": "SparkFun BOB-23055",
+    "PCB_center": [
+      -57,
+      57.14,
+      -3.5
+    ],
+    "PCB_size": [
+      20.32,
+      11.43,
+      1.6
+    ],
+    "connector_center": [
+      -57,
+      54.6,
+      2.35
+    ],
+    "connector_size": [
+      8.94,
+      3.45,
+      10.1
+    ],
+    "source": "https://github.com/sparkfun/SparkFun_USB-C_Vertical_Breakout"
+  },
+  "switch": {
+    "name": "C&K JS203011CQN",
+    "housing_center": [
+      -14,
+      55,
+      4.45
+    ],
+    "housing_max_envelope": [
+      13,
+      3.9,
+      3.5
+    ],
+    "terminal_length_max": 3.7,
+    "terminal_row_spacing_note": "3.3mm provisional; open wiring well allows both rows"
+  }
+}

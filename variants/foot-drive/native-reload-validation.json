@@ -1,0 +1,33 @@
+{
+  "ankle_motors_belong_to_feet": true,
+  "archive_reloaded": true,
+  "revolute_joints": 4,
+  "motion_links": 0,
+  "MG90S": 4,
+  "print_parts": 12,
+  "grounded_parts": 1,
+  "direct_coaxial_axes_verified": true,
+  "tests": [
+    {
+      "joint": "HIP L direct yaw 15deg",
+      "driven_deg": 5,
+      "component_moved": true
+    },
+    {
+      "joint": "HIP R direct yaw 15deg",
+      "driven_deg": 5,
+      "component_moved": true
+    },
+    {
+      "joint": "ANKLE L direct roll 12deg",
+      "driven_deg": 5,
+      "component_moved": true
+    },
+    {
+      "joint": "ANKLE R direct roll 12deg",
+      "driven_deg": 5,
+      "component_moved": true
+    }
+  ],
+  "all_passed": true
+}

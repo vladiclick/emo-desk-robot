@@ -1,0 +1,146 @@
+[
+  {
+    "file": "Foot_L_-_TPU_rear_axle_cap.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.01,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Foot_L_-_enclosed_flat_MG90S_shoe.stl",
+    "triangles": 4274,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 18042.83,
+    "xyz_mm": [
+      50.0,
+      16.5,
+      60.0
+    ]
+  },
+  {
+    "file": "Foot_L_-_top_access_lid.stl",
+    "triangles": 812,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 3534.24,
+    "xyz_mm": [
+      40.0,
+      15.2,
+      42.0
+    ]
+  },
+  {
+    "file": "Foot_R_-_TPU_rear_axle_cap.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.01,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Foot_R_-_enclosed_flat_MG90S_shoe.stl",
+    "triangles": 4294,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 18043.0,
+    "xyz_mm": [
+      50.0,
+      16.5,
+      60.0
+    ]
+  },
+  {
+    "file": "Foot_R_-_top_access_lid.stl",
+    "triangles": 812,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 3534.24,
+    "xyz_mm": [
+      40.0,
+      15.2,
+      42.0
+    ]
+  },
+  {
+    "file": "Leg_L_-_slim_open_U_fork.stl",
+    "triangles": 2872,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 7618.75,
+    "xyz_mm": [
+      17.6,
+      47.6,
+      50.0
+    ]
+  },
+  {
+    "file": "Leg_R_-_slim_open_U_fork.stl",
+    "triangles": 2872,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 7618.75,
+    "xyz_mm": [
+      17.6,
+      47.6,
+      50.0
+    ]
+  },
+  {
+    "file": "OLED_hidden_slide_carrier.stl",
+    "triangles": 952,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 1491.82,
+    "xyz_mm": [
+      34.0,
+      31.5,
+      5.0
+    ]
+  },
+  {
+    "file": "Original_head_-_no_exterior_screws.stl",
+    "triangles": 4036,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 50862.55,
+    "xyz_mm": [
+      80.0,
+      65.0,
+      53.0
+    ]
+  },
+  {
+    "file": "Rear_lid_-_four_release_clips.stl",
+    "triangles": 1384,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 12320.4,
+    "xyz_mm": [
+      75.0,
+      55.0,
+      17.7
+    ]
+  },
+  {
+    "file": "Two_hip_servo_clip_rack.stl",
+    "triangles": 3700,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 12788.73,
+    "xyz_mm": [
+      76.0,
+      31.7,
+      34.0
+    ]
+  }
+]

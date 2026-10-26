@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-10-23T23:39:42.379285+00:00",
+  "CAD_prototype_only": true,
+  "assembly_bbox_XYZ_mm": [
+    130,
+    104,
+    60
+  ],
+  "MG90S": 4,
+  "revolute_joints": 4,
+  "ankle_motors_in_feet": 2,
+  "hidden_horn_screws": 4,
+  "printable_parts": 17,
+  "motion_samples": 49,
+  "motion_sample_collisions": 0,
+  "hip_insertion_samples": 31,
+  "cassette_insertion_samples": 8,
+  "all_recorded_checks_passed": true,
+  "collision_volume_threshold_mm3": 0.02,
+  "limitations": "Sampled rigid geometry; physical assembly, wiring, flexure, torque, thermal and walking tests remain.",
+  "source_sha256": {
+    "assembly_audit.py": "fd42c9ef5ab8bb7b740a173cda84c27979d47c6951ba1d22a8d3f1a11f8cb3bb",
+    "refinement.py": "50a1ccad6f5feab4060443962d8bdab134d70efc6b6a7697871f3141b4fc8b5e",
+    "EmoComplete.py": "7e75e983e971249bb17dd283d7d9fc9a30f9b0a1386096a2678f13a15f7c24b9",
+    "servo_detail.py": "0bb86c7ef3bbbbed11001c179c6b339a7c44c5f2590e2483a97b3741d3169467",
+    "electronics.py": "ee197849edf2c943aa654e85498777ee7c67377a6e61f77496fa781fb0997c07",
+    "verify-native.py": "7ebde8678d2cf840b11ff23f947684e7db6fcbb839b84524e86310b9a60ec841",
+    "hip_audit.py": "62b4653648d56d7218275f22c4e23fbce0cdcf91e1a3a387649b452464907f52",
+    "base.py": "ce2983b0f9890136545144af9052f54693c06962b30ac402ea4811e1956866de"
+  }
+}

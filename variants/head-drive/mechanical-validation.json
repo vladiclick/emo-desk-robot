@@ -1,0 +1,530 @@
+{
+  "architecture": "4 head-mounted detailed MG90S, paired Bowden ankle transmission",
+  "head_lift_mm": 0,
+  "enclosure_screws": 0,
+  "hidden_stock_horn_screws": 4,
+  "joints": 6,
+  "motion_links": 2,
+  "neutral_collisions": [],
+  "poses": [
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -11.25,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -7.5,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -3.75,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        3.75,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        7.5,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        11.25,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        0,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        -15,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        -11.25,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        -7.5,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        -3.75,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        3.75,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        7.5,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        11.25,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        15,
+        0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        -12,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        -9.0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        -6.0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        -3.0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        3.0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        6.0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        9.0,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        12,
+        0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        -9.0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        -6.0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        -3.0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        3.0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        6.0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        9.0
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        0,
+        0,
+        0,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        -15,
+        -12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        -15,
+        -12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        -15,
+        12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        -15,
+        12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        15,
+        -12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        15,
+        -12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        15,
+        12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        -15,
+        15,
+        12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        -15,
+        -12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        -15,
+        -12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        -15,
+        12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        -15,
+        12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        15,
+        -12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        15,
+        -12,
+        12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        15,
+        12,
+        -12
+      ],
+      "collisions": []
+    },
+    {
+      "degrees": [
+        15,
+        15,
+        12,
+        12
+      ],
+      "collisions": []
+    }
+  ],
+  "notes": [
+    "Bowden paths are neutral schematic visuals, not deformable collision geometry.",
+    "Two persistent motion links implement ideal 0.75 servo/ankle ratio; no elastic cable solver.",
+    "Nominal servo reconstruction, measure purchased hardware before manufacture."
+  ],
+  "feature_errors": [],
+  "parts": [
+    {
+      "name": "PRINT | Original head - no exterior screws",
+      "volume_mm3": 51040.08972645025,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Rear lid - four release clips",
+      "volume_mm3": 11491.013084367203,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Removable four-servo snap rack",
+      "volume_mm3": 19834.406925584688,
+      "solid": true
+    },
+    {
+      "name": "PRINT | OLED hidden slide carrier",
+      "volume_mm3": 1491.859889803846,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Original slim leg L",
+      "volume_mm3": 9476.09304812721,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Original foot L with concealed pulley",
+      "volume_mm3": 26416.651171197977,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Axle retaining plug L -44.5",
+      "volume_mm3": 14.534578411833833,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Axle retaining plug L 4.5",
+      "volume_mm3": 14.534578411833817,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Original slim leg R",
+      "volume_mm3": 9476.093386367089,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Original foot R with concealed pulley",
+      "volume_mm3": 26417.93377464735,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Axle retaining plug R -44.5",
+      "volume_mm3": 14.534578411833827,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Axle retaining plug R 4.5",
+      "volume_mm3": 14.534578411833813,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Remote ankle drive drum L",
+      "volume_mm3": 514.7396486892716,
+      "solid": true
+    },
+    {
+      "name": "PRINT | Remote ankle drive drum R",
+      "volume_mm3": 514.7396486892713,
+      "solid": true
+    }
+  ]
+}

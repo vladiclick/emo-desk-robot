@@ -1,0 +1,33 @@
+{
+  "files": {
+    "Emo-FootDrive-cutaway.png": "fbec4c6a0bd436b342d679e191d77e435e3754410880633b36fa6dfb327e961f",
+    "Emo-FootDrive-exterior.png": "8b7feaf09afddcca326970208613fe59c39ae05459a0e2a884f673df7df0e23f",
+    "Emo-FootDrive-mechanism.png": "a743e4b4099cb104a7b773697dd8884c871851428ef85ecd8cc1d77706c98e0a",
+    "Emo-FootDrive-motion.png": "a10b553869d863f54941abee5009c9487c3d6a65e51b57a3b450491b63947b11",
+    "Emo-FootDrive-print.step": "a737814a47ec73eb65697d84d38342298c8531f2afb42694ba280ce78f05b8d6",
+    "Emo-FootDrive.f3d": "f79591e0bca6bd2bae083899ddadf2cc8b0190da281c8b25994f386afe597b4d",
+    "Foot_L_-_TPU_rear_axle_cap.stl": "820f9b099577dbe2080cf25f02ed9c2be1be1e4a69740a70cf44c23d54934513",
+    "Foot_L_-_enclosed_flat_MG90S_shoe.stl": "d779911804dac4dda28a33a5021779d60e44ad9332e60b4be87c79c1fca08a5b",
+    "Foot_L_-_top_access_lid.stl": "98ce7079ffd0cd8c8b589558a0eb00acaf41c4e8659e95d1cd1048eaf9bc1880",
+    "Foot_R_-_TPU_rear_axle_cap.stl": "f7c00d522ab201b0e9c0adb82e6c8a3e518f1ed91a9465764cd9fdeba037c2d6",
+    "Foot_R_-_enclosed_flat_MG90S_shoe.stl": "cae327eb426a6d7c24f00165d9530f8f42d7d4a3254134eb7b3c0de00370416a",
+    "Foot_R_-_top_access_lid.stl": "e482cd7b74c967bd6867ba611a96af5f69b21410aeafbad9f2820bcef0285d9a",
+    "Fusion-source/EmoFoot/EmoFoot.manifest": "e93420ae8f042be91690a4bf590b788f20c896ca267e146c1f9142d6e60372f5",
+    "Fusion-source/EmoFoot/EmoFoot.py": "4622447f2d9f1ecab17867610985589f48419cd3a9238ffefa070673cd7c274f",
+    "Fusion-source/EmoFoot/base.py": "ce2983b0f9890136545144af9052f54693c06962b30ac402ea4811e1956866de",
+    "Fusion-source/EmoFoot/servo_detail.py": "0bb86c7ef3bbbbed11001c179c6b339a7c44c5f2590e2483a97b3741d3169467",
+    "Leg_L_-_slim_open_U_fork.stl": "fb021a3f021051e616c58936556391f37e646b411ad2c614a0ffb8078649370e",
+    "Leg_R_-_slim_open_U_fork.stl": "2661df5142456c1fa3ee6df07aecf84b38271f2e656f01c69d67a6d45b237861",
+    "Montaj.md": "2b9087623fa26f9ddb0ad09282c60346301bfac4055a8dd5cbf6d051b569e833",
+    "OLED_hidden_slide_carrier.stl": "db6bb4ccd9c9d60d8cc691d9449e7c8e4b2f513f29429ce938f8e8d71e5f7918",
+    "Original-user-backup.f3d": "717a47e6166c4348dd9c65fa174cf714ce056b2b4c1eb0527ca875e53a56659f",
+    "Original_head_-_no_exterior_screws.stl": "500769b389d56d1e7ae753581310f876ed12be4caf3354ca3218f548df7600db",
+    "Rear_lid_-_four_release_clips.stl": "813a0bf393aafa06861b51993b4982eaf5510e53e29ef959101e6f52e80e1985",
+    "Two_hip_servo_clip_rack.stl": "e1f1ccb1f0a13586d57bac789cb2aab1ed7983b04300b564a019e9ee551ffe3b",
+    "mechanical-validation.json": "56b6478c253c8e158e9af40ab9236fc3122db488e75a3efe6b6217e6820e745a",
+    "mesh-validation.json": "85067d9bb63caf331b530f1eb8353a6b6a03f2decec78ff6cc60bee30c602b1d",
+    "native-reload-validation.json": "c7b075c53f6e7f2c7dd3f73cda673846edad1fec3fa5a3e714a76a290827c4ca"
+  },
+  "step_solids": 12,
+  "f3d_archive_crc_passed": true
+}

@@ -1,0 +1,31 @@
+{
+  "archive_reloaded": true,
+  "revolute_joints": 6,
+  "independent_actuators": 4,
+  "motion_links": 2,
+  "detailed_MG90S": 4,
+  "print_parts": 14,
+  "tests": [
+    {
+      "driven_joint": "HIP L yaw 15deg",
+      "angle_deg": 5,
+      "linked_remote_deg": null
+    },
+    {
+      "driven_joint": "HIP R yaw 15deg",
+      "angle_deg": 5,
+      "linked_remote_deg": null
+    },
+    {
+      "driven_joint": "ANKLE L remote roll 12deg",
+      "angle_deg": 5,
+      "linked_remote_deg": 3.7499999999999996
+    },
+    {
+      "driven_joint": "ANKLE R remote roll 12deg",
+      "angle_deg": 5,
+      "linked_remote_deg": 3.7499999999999996
+    }
+  ],
+  "all_passed": true
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "file": "Axle_retaining_plug_L_-44.5.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.53,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Axle_retaining_plug_L_4.5.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.53,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Axle_retaining_plug_R_-44.5.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.53,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Axle_retaining_plug_R_4.5.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.53,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "OLED_hidden_slide_carrier.stl",
+    "triangles": 952,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 1491.82,
+    "xyz_mm": [
+      34.0,
+      31.5,
+      5.0
+    ]
+  },
+  {
+    "file": "Original_foot_L_with_concealed_pulley.stl",
+    "triangles": 7154,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 26413.73,
+    "xyz_mm": [
+      50.0,
+      22.5,
+      60.0
+    ]
+  },
+  {
+    "file": "Original_foot_R_with_concealed_pulley.stl",
+    "triangles": 7234,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 26415.03,
+    "xyz_mm": [
+      50.0,
+      22.5,
+      60.0
+    ]
+  },
+  {
+    "file": "Original_head_-_no_exterior_screws.stl",
+    "triangles": 3292,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 51036.51,
+    "xyz_mm": [
+      80.0,
+      65.0,
+      53.0
+    ]
+  },
+  {
+    "file": "Original_slim_leg_L.stl",
+    "triangles": 5242,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 9476.55,
+    "xyz_mm": [
+      15.0,
+      37.9,
+      50.0
+    ]
+  },
+  {
+    "file": "Original_slim_leg_R.stl",
+    "triangles": 5242,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 9476.55,
+    "xyz_mm": [
+      15.0,
+      37.9,
+      50.0
+    ]
+  },
+  {
+    "file": "Rear_lid_-_four_release_clips.stl",
+    "triangles": 716,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 11490.9,
+    "xyz_mm": [
+      75.0,
+      55.0,
+      16.8
+    ]
+  },
+  {
+    "file": "Remote_ankle_drive_drum_L.stl",
+    "triangles": 3582,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 514.67,
+    "xyz_mm": [
+      17.0,
+      17.0,
+      3.0
+    ]
+  },
+  {
+    "file": "Remote_ankle_drive_drum_R.stl",
+    "triangles": 3582,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 514.67,
+    "xyz_mm": [
+      17.0,
+      17.0,
+      3.0
+    ]
+  },
+  {
+    "file": "Removable_four-servo_snap_rack.stl",
+    "triangles": 4028,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 19835.66,
+    "xyz_mm": [
+      73.6,
+      46.5,
+      36.7
+    ]
+  }
+]

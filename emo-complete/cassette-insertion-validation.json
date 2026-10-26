@@ -1,0 +1,39 @@
+{
+  "purpose": "Populated cassette rear insertion, cap removed; rigid sampled positions only",
+  "moving_bodies": 39,
+  "samples": [
+    {
+      "rear_offset_mm": 0,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 4,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 8,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 16,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 24,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 36,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 52,
+      "collisions": []
+    },
+    {
+      "rear_offset_mm": 65,
+      "collisions": []
+    }
+  ],
+  "all_passed": true
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "file": "Foot_L_-_TPU_rear_axle_cap.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.01,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Foot_L_-_TPU_traction_sole.stl",
+    "triangles": 1884,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 2350.87,
+    "xyz_mm": [
+      50.0,
+      2.5,
+      60.0
+    ]
+  },
+  {
+    "file": "Foot_L_-_enclosed_flat_MG90S_shoe.stl",
+    "triangles": 5668,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14927.15,
+    "xyz_mm": [
+      50.0,
+      15.45,
+      60.0
+    ]
+  },
+  {
+    "file": "Foot_L_-_top_access_lid.stl",
+    "triangles": 812,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 3534.24,
+    "xyz_mm": [
+      40.0,
+      15.2,
+      42.0
+    ]
+  },
+  {
+    "file": "Foot_R_-_TPU_rear_axle_cap.stl",
+    "triangles": 2708,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14.01,
+    "xyz_mm": [
+      5.8,
+      5.8,
+      0.8
+    ]
+  },
+  {
+    "file": "Foot_R_-_TPU_traction_sole.stl",
+    "triangles": 1884,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 2350.87,
+    "xyz_mm": [
+      50.0,
+      2.5,
+      60.0
+    ]
+  },
+  {
+    "file": "Foot_R_-_enclosed_flat_MG90S_shoe.stl",
+    "triangles": 5686,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 14927.31,
+    "xyz_mm": [
+      50.0,
+      15.45,
+      60.0
+    ]
+  },
+  {
+    "file": "Foot_R_-_top_access_lid.stl",
+    "triangles": 812,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 3534.24,
+    "xyz_mm": [
+      40.0,
+      15.2,
+      42.0
+    ]
+  },
+  {
+    "file": "Leg_L_-_slim_open_U_fork.stl",
+    "triangles": 2872,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 7618.75,
+    "xyz_mm": [
+      17.6,
+      47.6,
+      50.0
+    ]
+  },
+  {
+    "file": "Leg_R_-_slim_open_U_fork.stl",
+    "triangles": 2872,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 7618.75,
+    "xyz_mm": [
+      17.6,
+      47.6,
+      50.0
+    ]
+  },
+  {
+    "file": "OLED_hidden_slide_carrier.stl",
+    "triangles": 952,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 1416.52,
+    "xyz_mm": [
+      31.6,
+      31.6,
+      5.0
+    ]
+  },
+  {
+    "file": "Original_head_-_no_exterior_screws.stl",
+    "triangles": 3428,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 45623.43,
+    "xyz_mm": [
+      80.0,
+      65.0,
+      53.0
+    ]
+  },
+  {
+    "file": "Rear_lid_-_two_squeeze_releases.stl",
+    "triangles": 7872,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 11065.21,
+    "xyz_mm": [
+      80.0,
+      65.0,
+      17.8
+    ]
+  },
+  {
+    "file": "Removable_electronics_and_padded_battery_carrier.stl",
+    "triangles": 3494,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 10948.49,
+    "xyz_mm": [
+      62.26,
+      58.9,
+      41.1
+    ]
+  },
+  {
+    "file": "TPU_loose_battery_retaining_bridge.stl",
+    "triangles": 76,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 449.68,
+    "xyz_mm": [
+      51.8,
+      7.0,
+      9.9
+    ]
+  },
+  {
+    "file": "TPU_speaker_rim_retainer.stl",
+    "triangles": 1484,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 184.12,
+    "xyz_mm": [
+      23.6,
+      23.6,
+      5.45
+    ]
+  },
+  {
+    "file": "Two_hip_servo_clip_rack.stl",
+    "triangles": 3284,
+    "closed_manifold": true,
+    "connected_components": 1,
+    "volume_mm3": 10965.53,
+    "xyz_mm": [
+      74.0,
+      31.7,
+      34.0
+    ]
+  }
+]
